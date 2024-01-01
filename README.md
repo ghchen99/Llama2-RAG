@@ -16,7 +16,10 @@ This Streamlit application integrates Meta's Llama 2 7b model for Retrieval Augm
 4. Input Your Prompt: Enter your prompt in the text input box provided.
 
 5. Generate Responses: Press Enter to trigger the generation process. The application will query the Llama 2 model and provide responses based on the given prompt and the content of the uploaded PDF file.
-   
+
+<img width="773" alt="response" src="https://github.com/ghchen99/Llama2-RAG/assets/56446026/25268d5e-7123-4468-a10e-16a7ce4c8ce8">
+
+
 **Notes**
 
 The application requires an internet connection to interact with the Hugging Face model and related services.
