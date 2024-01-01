@@ -2,6 +2,8 @@
 
 This Streamlit application integrates Meta's Llama 2 7b model for Retrieval Augmented Generation (RAG) with a user-friendly interface for generating responses based on large PDF files. The application utilizes Hugging Face transformers, llama index, and other dependencies to create an interactive experience.
 
+# ADD IMAGE ADD IMAGE
+
 ## Getting Started
 Hugging Face Token: Obtain your Hugging Face API token and replace <YOUR_HUGGINGFACE_TOKEN> in the auth_token variable within the code.
 
