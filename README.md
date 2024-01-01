@@ -8,7 +8,7 @@ This Streamlit application integrates Meta's Llama 2 7b model for Retrieval Augm
 ## Getting Started
 Hugging Face Token: Obtain your Hugging Face API token and replace <YOUR_HUGGINGFACE_TOKEN> in the auth_token variable within the code.
 
-1. Run the Streamlit App: ``` streamlit run app.py``` 
+1. Run the Streamlit App: ```streamlit run app.py``` 
 
 2. Upload PDF File: Use the "Upload a PDF file" section to upload a PDF document.
 
